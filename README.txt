@@ -17,6 +17,3 @@ instructions.txt
 img_url.txt
     'micro.py' will write the url of the image to be displayed to this file
     your main project file should read this url
-
-racquet_image.txt
-    list of racquet urls

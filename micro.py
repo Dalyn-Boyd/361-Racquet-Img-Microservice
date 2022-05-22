@@ -5,7 +5,7 @@
 
 import random
 
-# repeat while site is live
+# repeat while site is running
 while True:
     
     # look for run command
